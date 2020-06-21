@@ -9,7 +9,7 @@ Krankenhaus-Manager Addon für LSS (https://www.leitstellenspiel.de/)
 
 Danach einfach auf den Link klicken: 
 
-[Hier klicken](https://github.com/phil330d/KH-Manager/raw/master/KH-Manager.user.js)
+[Hier klicken](https://github.com/Suchty112/LSS-Scripts/raw/master/KH-Manager/KH-Manager.user.js)
 
 
-[Oder hier, wenn man zusätzlich nur die Krankenhäuser mit 0 % oder 10% Abgabe anzeigen lassen will](https://github.com/phil330d/KH-Manager/raw/master/KH-Manager-with-10%25max.user.js)
+[Oder hier, wenn man zusätzlich nur die Krankenhäuser mit 0 % oder 10% Abgabe anzeigen lassen will](https://github.com/Suchty112/LSS-Scripts/raw/master/KH-Manager/KH-Manager-with-10%25max.user.js)
