@@ -10,6 +10,6 @@
 
 GM_addStyle(`
     .leaflet-tile {
-    filter: invert(1) grayscale(.7);
-    -webkit-filter: invert(1) grayscale(.7);
+    filter: invert(1) grayscale(.9);
+    -webkit-filter: invert(1) grayscale(.9);
 `);
